@@ -1,0 +1,21 @@
+{
+  "repo": "adapthealth",
+  "feeds": [
+    {
+      "source": "https://www.adapthealth.com/blogs/latest-news",
+      "feed_url": "https://adapthealth.com/blogs/latest-news.atom",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://www.adapthealth.com",
+      "feed_url": "https://www.adapthealth.com",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 5
+}
