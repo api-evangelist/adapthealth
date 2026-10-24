@@ -29,6 +29,12 @@ image: https://www.adapthealth.com/favicon.ico
 tags:
   - Healthcare
   - Medical Equipment
+  - Home Care
+  - Respiratory Care
+  - Diabetes Care
+tags_raw:
+  - Healthcare
+  - Medical Equipment
   - Home Healthcare
   - Respiratory Care
   - Diabetes Care
