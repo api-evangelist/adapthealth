@@ -66,7 +66,7 @@
 
 AdaptHealth is a national provider of home medical equipment, supplies, and related services in the United States. The company supports patients with sleep therapy, respiratory care, diabetes care, mobility, and other home medical needs through a network of locations and partnerships with healthcare providers and insurers. No public developer API or technical documentation portal is currently available.
 
-**Areas:** Healthcare · Medical Equipment · Home Healthcare · Respiratory Care · Diabetes Care
+**Areas:** Healthcare · Medical Equipment · Home Care · Respiratory Care · Diabetes Care
 
 ## AdaptHealth on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adapthealth Domain Security](https://apis.io/security/adapthealth/adapthealth-domain-security/)
+- [AdaptHealth Domain Security](https://apis.io/security/adapthealth/adapthealth-domain-security/)
 
 ## Where to find this API
 
@@ -91,11 +91,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 3.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 3.7** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 42.9 |
+| Discoverability | 50.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
@@ -125,8 +125,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 4.7** — Health
+**Regulatory alignment 0.0** — Health
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adapthealth/](https://apis.io/providers/adapthealth/).
 
